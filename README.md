@@ -54,4 +54,8 @@ To find your CLIENT_ID and CLIENT_SECRET go to your Tuya Platform, select **clou
 
 To find the DPs of a devices, select **Cloud** -> **API Explorer**. Then under **Devices Control** select **Query Properties**. Paste your device_id and submit request. This gives you the codes to use in the configuration file. 
 
+## License
+
+This project is released under the MIT License.  
+You are free to use, modify, and distribute it, as long as the original copyright notice is included. See the full LICENSE file for details.
 
